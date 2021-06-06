@@ -1,5 +1,6 @@
 # WPanel4-Authenticated-RCE
 
+https://latestpcsolution.wordpress.com/2021/06/05/wpanel4-cms-authenticated-rce/
 
 <!-- wp:paragraph -->
 <p><strong>Admin Panel RCE Multiple Vulnerable Endpoints</strong></p>
