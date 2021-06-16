@@ -16,6 +16,7 @@ apt install -y php7.1 libapache2-mod-php7.1 php7.1-common php7.1-mbstring php7.1
 
 # Composer 
 apt install composer
+
 composer create-project "wpanel/wpanel4-cms" Blog
 
 cd Blog
